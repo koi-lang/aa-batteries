@@ -1,0 +1,6 @@
+[submodule "logging"]
+	path = logging
+	url = https://github.com/koi-lang/logging
+[submodule "math"]
+	path = math
+	url = https://github.com/koi-lang/math
